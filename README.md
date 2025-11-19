@@ -346,16 +346,15 @@ Permission is granted to use, copy, modify, merge, publish, distribute, sublicen
 - **GitHub**: https://github.com/venkteshwari?tab=repositories
 - **Portfolio**: https://portfolio-qyf3.onrender.com
 
-**Project Repository**: [https://github.com/yourusername/ecommerce-churn-analysis](https://github.com/yourusername/ecommerce-churn-analysis)
+**Project Repository**: [[https://github.com/yourusername/ecommerce-churn-analysis](https://github.com/yourusername/ecommerce-churn-analysis)](https://github.com/venkteshwari/Ecommerce-Customer-Churn-Engagement-Analysis-Dashboard)
 
 ---
 
 ## Acknowledgments
 
-- Dataset provided by [Source Name/Organization]
+- Dataset provided by [Kaggle]
 - Visualization inspiration from industry best practices
 - Community contributions and feedback
-- Special thanks to [Mentor/Team Name] for guidance
 
 ---
 
