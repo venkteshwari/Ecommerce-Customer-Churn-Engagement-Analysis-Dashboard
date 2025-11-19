@@ -238,14 +238,13 @@ Customer Lifetime Value = Average Order Value × Purchase Frequency × Customer 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ecommerce-churn-analysis.git
+git clone https://github.com/venkteshwari/Ecommerce-Customer-Churn-Engagement-Analysis-Dashboard
 
 # Navigate to project directory
 cd ecommerce-churn-analysis
 
 # Open dashboard file in your BI tool
 # For Power BI: Open ecommerce_dashboard.pbix
-# For Tableau: Open ecommerce_dashboard.twbx
 ```
 
 ### Usage Guide
